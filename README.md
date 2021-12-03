@@ -1,4 +1,4 @@
-# spotify Data
+# File Specification and Description
 An experiment with knn regression to predict spotify song popularity using various attributes. 
 
 
